@@ -6,5 +6,5 @@ email: You@gmail.com
 description: "You Blog"              #网站介绍
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone" #关键词
 url: "https://blog.smartcodes.club/html/home.html"          # 这个就是填写你的博客地址
-baseurl: ""      # 这个我们不用填写
+baseurl: "/html/home.html"      # 这个我们不用填写
 
