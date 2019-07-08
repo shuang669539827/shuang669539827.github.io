@@ -3,6 +3,6 @@ theme: jekyll-theme-hacker
 url: https://blog.smartcodes.club
 
 menu:
-  home: /html/home.html
+  home: html/home.html
   
   
