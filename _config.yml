@@ -83,3 +83,5 @@ enable_valine: false
 leancloud_appid: 'yourappid'
 leancloud_appkey: 'yourappkey'
 enable_leancounter: true
+
+theme: jekyll-theme-architect
